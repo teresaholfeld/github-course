@@ -1,0 +1,29 @@
+h1 {
+  color: green;
+  font-size: 34px;
+}
+
+p {
+  color: blue;
+}
+
+* {
+  font-variant: small-caps;
+  background: lightblue;
+  color: white;
+  font-size: 20px;
+}
+
+body {
+  text-align: center;
+}
+
+
+.kitty{
+  padding-top: 85px;
+  padding-bottom: 85px;
+}
+.img-kitty{
+  border: 1px rgb(255,255,255) solid;
+}
+
