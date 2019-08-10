@@ -1,0 +1,17 @@
+.git {
+    background-color: red;
+}
+
+.box1 {
+    background-color: green;
+    color: #757575;
+}
+
+.box2 {
+
+    background-color: blue;
+}
+
+.box1, .box2 {
+    width: 50%;
+}
